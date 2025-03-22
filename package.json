@@ -1,0 +1,41 @@
+{
+	"name": "borderless-aether",
+	"publisher": "Aetherarchio",
+	"displayName": "Borderless Aether",
+	"description": "A clean and minimalist Visual Studio Code theme with a darker, borderless design.",
+	"icon": "icon.png",
+	"version": "1.0.3",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aetherarchio/borderless-aether"
+	},
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Borderless Aether",
+				"uiTheme": "vs-dark",
+				"path": "./themes/borderless-aether-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a5f9c5f2-5b5f-4b9c-b8a2-1e5b9b8b8b8b",
+		"publisherId": "b9a7d3c1-9e8b-4f2a-8c5d-1a3e5b7d9c1f",
+		"publisherDisplayName": "Aetherarchio",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1742613652176,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 60000
+	}
+}
