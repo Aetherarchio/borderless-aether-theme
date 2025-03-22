@@ -1,6 +1,11 @@
 # Changes
 
-All notable changes to the "borderless-aether" theme will be documented in this file.
+All notable changes to the "borderless-aether-theme" theme will be documented in this file.
+
+## [1.0.4]
+
+### Changed
+- Slight changes - pre-distribution.
 
 ## [1.0.3]
 
