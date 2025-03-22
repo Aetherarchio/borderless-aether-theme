@@ -2,6 +2,11 @@
 
 All notable changes to the "borderless-aether-theme" theme will be documented in this file.
 
+## [1.0.5]
+
+### Changed
+- Adjusted line highlight color for better visibility.
+
 ## [1.0.4]
 
 ### Changed

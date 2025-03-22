@@ -161,7 +161,7 @@
     "editorIndentGuide.activeBackground": "#e3e4e229",
     "editorLineNumber.foreground": "#858585",
     "editorLineNumber.activeForeground": "#c6c6c6",
-    "editor.lineHighlightBackground": "#65737e55",
+    "editor.lineHighlightBackground": "#5c5c5c55",
     "editorWhitespace.foreground": "#e3e4e229",
 
     "editorMarkerNavigation.background": "#1a1a1a",

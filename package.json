@@ -4,7 +4,7 @@
 	"displayName": "Borderless Aether",
 	"description": "A clean and minimalist Visual Studio Code theme with a darker, borderless design.",
 	"icon": "icon.png",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/aetherarchio/borderless-aether-theme"
